@@ -6,31 +6,87 @@ The first step in OOP is to identify all the objects the programmer wants to man
 
 What are the pros and cons of inheritance?
 --------------
+Inheritance is a tool.
+It makes one of the fundamental concepts of object-oriented programming. It's very useful, and a good use of inheritance is great to develop effective solutions.
+An evident con is that it violates encapsulation. That is, inheriting from a class you're couplig yourself with any implementation details of the parent.
+
+
 What is polymorphism?
 --------------
+
+
+
+
 What is tight coupling?
 --------------
+
+
+
+
 What are design patterns and how they are good?
 --------------
+
+
+
+
 Tell me some important design patterns used in iOS?
 --------------
+
+
+
+
 What is singleton?
 --------------
+
+
+
+
 What challenges you have encounter implementing MVC?
 --------------
+
+
+
+
 What is MVVM and why you will use it?
 --------------
+
+
+
+
 What is dependency injection, how it is good?
 --------------
 
 
+
+
+
+
 Do you write unit tests? how you write in iOS?
 --------------
+
+
+
+
 What is TDD?
 --------------
+
+
+
+
 How TDD is good, and What problem does it solve?
 --------------
+
+
+
+
 What is Mocking, when you will use mocking?
 --------------
+
+
+
+
 What is UI testing?
 --------------
+
+
+
