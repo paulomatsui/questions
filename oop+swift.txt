@@ -1,17 +1,36 @@
 What is OOP?
+--------------
+Object-oriented programming is a programming language model organized around objects rather than "actions" and data rather than logic. Object-oriented programming takes the view that what we really care about are the objects we want to manipulate rather than the logic required to manipulate them. 
+The first step in OOP is to identify all the objects the programmer wants to manipulate and how they relate to each other, an exercise often known as data modeling. Once an object has been identified,  it is generalized as a class of objects which defines the kind of data it contains and any logic sequences that can manipulate it. Each distinct logic sequence is known as a method. Objects communicate with well-defined interfaces called messages.
+
+
 What are the pros and cons of inheritance?
+--------------
 What is polymorphism?
+--------------
 What is tight coupling?
+--------------
 What are design patterns and how they are good?
+--------------
 Tell me some important design patterns used in iOS?
+--------------
 What is singleton?
+--------------
 What challenges you have encounter implementing MVC?
+--------------
 What is MVVM and why you will use it?
+--------------
 What is dependency injection, how it is good?
+--------------
 
 
 Do you write unit tests? how you write in iOS?
+--------------
 What is TDD?
+--------------
 How TDD is good, and What problem does it solve?
+--------------
 What is Mocking, when you will use mocking?
+--------------
 What is UI testing?
+--------------
